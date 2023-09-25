@@ -28,7 +28,7 @@ The dataset used in this project is sourced from Kaggle: [Bicycle Accidents in G
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/github/Comparitive-Analysis-Od-Machine-Learning-Algorithms.git
+   git clone https://github.com/github/Comparative-Analysis-Of-Machine-Learning-Models.git
 Navigate to the project directory:
 
 bash
