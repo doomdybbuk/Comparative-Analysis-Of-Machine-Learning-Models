@@ -1,6 +1,6 @@
 # Bicycle Accidents Prediction using Neural Networks
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo-name/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/doomdybbuk/Comparative-Analysis-Of-Machine-Learning-Models/blob/master/LICENSE)
 
 A machine learning project that uses neural networks to predict bicycle accidents in Great Britain. This project utilizes target encoding as a preprocessing technique and is based on the "Bicycle Accidents in Great Britain 1979 to 2018" dataset from Kaggle.
 
@@ -27,7 +27,7 @@ The dataset used in this project is sourced from Kaggle: [Bicycle Accidents in G
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/github/Comparative-Analysis-Of-Machine-Learning-Models.git
+   git clone https://github.com/doomdybbuk/Comparative-Analysis-Of-Machine-Learning-Models.git
 Navigate to the project directory:
 
 bash
@@ -45,7 +45,7 @@ Run the Jupyter Notebook or Python script to preprocess the data and train the n
 
 Experiment with different hyperparameters, model architectures, and preprocessing techniques as needed.
 
-Preprocessing
+## Preprocessing
 The preprocessing steps include:
 
 Target encoding of categorical features.
@@ -55,14 +55,14 @@ Splitting the data into training and testing sets.
 Model Training
 A neural network model is trained to predict bicycle accidents. The model architecture can be modified based on your requirements.
 
-Evaluation
+## Evaluation
 The model's performance is evaluated using accuracy and other relevant metrics. Experiment with different preprocessing techniques and hyperparameters to improve the model's performance.
 
-Contributors
+## Contributors
 Manan Jain
 Aditya Oza 
 Pragya Mundra
 Aprajita Aryan
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
