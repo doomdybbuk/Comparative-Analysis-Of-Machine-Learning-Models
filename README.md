@@ -59,10 +59,10 @@ A neural network model is trained to predict bicycle accidents. The model archit
 The model's performance is evaluated using accuracy and other relevant metrics. Experiment with different preprocessing techniques and hyperparameters to improve the model's performance.
 
 ## Contributors
-Manan Jain
-Aditya Oza 
-Pragya Mundra
-Aprajita Aryan
+1)Manan Jain
+2)Aditya Oza 
+3)Pragya Mundra
+4)Aprajita Aryan
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
