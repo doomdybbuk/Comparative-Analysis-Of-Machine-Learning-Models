@@ -1,4 +1,3 @@
-# Comparative-Analysis-Of-Machine-Learning-Models
 # Bicycle Accidents Prediction using Neural Networks
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo-name/blob/master/LICENSE)
